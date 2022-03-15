@@ -1,4 +1,5 @@
 .container{
+    box-sizing: border-box;
     text-align:center;
     margin-top:250px;
 }
@@ -13,7 +14,7 @@
     border-radius: 25px;
 }
 .search-bar{
-    margin: 0 auto;
+    
     width: 550px;
     padding-top:10px; 
     font-size:14px;
